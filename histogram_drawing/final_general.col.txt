@@ -1,0 +1,70 @@
+Actual Time	
+Age	
+Community Building	
+Community Membership_Family	
+Community Membership_Hobbies	
+Community Membership_None	
+Community Membership_Other	
+Community Membership_Political	
+Community Membership_Professional	
+Community Membership_Religious	
+Community Membership_Support	
+Country	Disability_Cognitive	
+Disability_Hearing	
+Disability_Motor	
+Disability_Not Impaired	
+Disability_Not Say	
+Disability_Vision	
+Education Attainment	
+Falsification of Information	
+Gender	
+Household Income	
+How You Heard About Survey_Banner	
+How You Heard About Survey_Friend	
+How You Heard About Survey_Mailing List	
+How You Heard About Survey_Others	
+How You Heard About Survey_Printed Media	
+How You Heard About Survey_Remebered	
+How You Heard About Survey_Search Engine	
+How You Heard About Survey_Usenet News	
+How You Heard About Survey_WWW Page	
+Major Geographical Location	
+Major Occupation	
+Marital Status	
+Most Import Issue Facing the Internet	
+Opinions on Censorship	
+Primary Computing Platform	
+Primary Language	
+Primary Place of WWW Access	
+Race	
+Not Purchasing_Bad experience	
+Not Purchasing_Bad press	
+Not Purchasing_Cant find	
+Not Purchasing_Company policy	
+Not Purchasing_Easier locally	
+Not Purchasing_Enough info	
+Not Purchasing_Judge quality	
+Not Purchasing_Never tried	
+Not Purchasing_No credit	
+Not Purchasing_Not applicable	
+Not Purchasing_Not option	
+Not Purchasing_Other	
+Not Purchasing_Prefer people	
+Not Purchasing_Privacy	
+Not Purchasing_Receipt	
+Not Purchasing_Security	
+Not Purchasing_Too complicated	
+Not Purchasing_Uncomfortable	
+Not Purchasing_Unfamiliar vendor	
+Registered to Vote	
+Sexual Preference	
+Web Ordering	
+Web Page Creation	
+Who Pays for Access_Don't Know	
+Who Pays for Access_Other	
+Who Pays for Access_Parents	
+Who Pays for Access_School	
+Who Pays for Access_Self	
+Who Pays for Access_Work	
+Willingness to Pay Fees	
+Years on Internet
